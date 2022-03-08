@@ -7,8 +7,8 @@ int main()
  int r;
  float area;
  printf("Give the value of radius to find area of circle \n");
- printf("\n Give radius = ");
+ printf("\nGive radius = ");
  scanf("%d",&r);
  area=PI*r*r;
- printf("\n the area of the circle will be = %f",area);
+ printf("\nThe area of the circle will be = %f",area);
 }

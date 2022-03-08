@@ -7,16 +7,16 @@ int main()
  int e;
  float a,b,d;
  printf("Give the two number to perform arithmetic operation \n");
- printf("\n number1 = ");
+ printf("\nNumber1 = ");
  scanf("%f",&a);
- printf("\n number2 = ");
+ printf("\nNumber2 = ");
  scanf("%f",&b);
  d=a+b;
- printf("\n addition will be = %f",d);
+ printf("\nAddition will be = %f",d);
  d=a-b;
- printf("\n subtraction will be = %f",d);
+ printf("\nSubtraction will be = %f",d);
  d=a*b;
- printf("\n multiplication will be = %f",d);
+ printf("\nMultiplication will be = %f",d);
  d=a/b;
- printf("\n division will be = %f",d);
+ printf("\nDivision will be = %f",d);
 }

@@ -7,10 +7,10 @@ int main()
  int l,b;
  float area;
  printf("Give the value of length and breath to find area of rectangle \n");
- printf("\n Give length = ");
+ printf("\nGive length = ");
  scanf("%d",&l);
- printf("\n Give breath = ");
+ printf("\nGive breath = ");
  scanf("%d",&b);
  area=l*b;
- printf("\n the area of the rectangle will be = %f",area);
+ printf("\nThe area of the rectangle will be = %f",area);
 }
