@@ -1,7 +1,7 @@
 # List of Practical Set 7
 
 39 	Write a program to copy one string to another string.    
-40 	Write a program to concatenate two strings. 
+40 	Write a program to concatenate two strings.   
 41 	Write a program to find length of given string.     
 42 	Write a program to find length of given string without using string function.   
 43 	Write a program to copy one string to another string without using string function.     
