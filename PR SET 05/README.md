@@ -7,26 +7,26 @@ i  *
    **               
    ***              
    ****             
-   *****   
+   *****       
 ii      *
        **
       ***
      ****
-    ***** 
+    *****     
 iii   *  *  *  *  *
        *  *  *  *
          *  *  *
           *  *
-            * 
-29 	Write a program to print following patterns :  
+            *       
+29 	Write a program to print following patterns :     
 i       1                       
         12
         123
         1234
-        12345
+        12345   
 
 ii      55555
         4444
         333
         22
-        1
+        1   
